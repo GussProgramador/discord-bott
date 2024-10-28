@@ -840,6 +840,3 @@ async def on_ready():
     await init_db()
     await adicionar_coluna_last_daily()
     print(f'Bot {bot.user.name} está online!')
-
-
-bot.run('MTI5ODM3MTcwODM1MjMzMTkxNw.GPanb1.cikvz2k-5dFWYJJnnnXM4bZ5ijc1gWA5EJI_eo')
